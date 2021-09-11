@@ -29,34 +29,34 @@ vue-cli4
   
 **项目技术栈**  
 后端技术  
-SpringBoot&emsp;容器+MVC框架	https://spring.io/projects/spring-boot  
-SpringSecurity	认证和授权框架	https://spring.io/projects/spring-security  
-MyBatis	ORM框架	http://www.mybatis.org/mybatis-3/zh/index.html  
-MyBatisGenerator	数据层代码生成	http://www.mybatis.org/generator/index.html  
-Elasticsearch	搜索引擎	https://github.com/elastic/elasticsearch  
-RabbitMQ	消息队列	https://www.rabbitmq.com/  
-Redis	分布式缓存	https://redis.io/  
-MongoDB	NoSql数据库	https://www.mongodb.com  
-LogStash	日志收集工具	https://github.com/elastic/logstash  
-Kibina	日志可视化查看工具	https://github.com/elastic/kibana  
-Nginx	静态资源服务器	https://www.nginx.com/  
-Docker	应用容器引擎	https://www.docker.com  
-Jenkins	自动化部署工具	https://github.com/jenkinsci/jenkins  
-Druid	数据库连接池	https://github.com/alibaba/druid  
-OSS	对象存储	https://github.com/aliyun/aliyun-oss-java-sdk  
-MinIO	对象存储	https://github.com/minio/minio  
-JWT	JWT登录支持	https://github.com/jwtk/jjwt  
-Lombok	简化对象封装工具	https://github.com/rzwitserloot/lombok  
-Hutool	Java工具类库	https://github.com/looly/hutool  
-PageHelper	MyBatis物理分页插件	http://git.oschina.net/free/Mybatis_PageHelper  
-Swagger-UI	文档生成工具	https://github.com/swagger-api/swagger-ui  
-Hibernator-Validator	验证框架	http://hibernate.org/validator  
+SpringBoot&emsp; 容器+MVC框架&emsp;	https://spring.io/projects/spring-boot  
+SpringSecurity&emsp;	认证和授权框架&emsp;	https://spring.io/projects/spring-security  
+MyBatis&emsp;	ORM框架&emsp;	http://www.mybatis.org/mybatis-3/zh/index.html  
+MyBatisGenerator&emsp;	数据层代码生成&emsp;	http://www.mybatis.org/generator/index.html  
+Elasticsearch&emsp;	搜索引擎&emsp;	https://github.com/elastic/elasticsearch  
+RabbitMQ&emsp;	消息队列&emsp;	https://www.rabbitmq.com/  
+Redis&emsp;	分布式缓存&emsp;	https://redis.io/  
+MongoDB&emsp;	NoSql数据库&emsp;	https://www.mongodb.com  
+LogStash	&emsp;日志收集工具	&emsp;https://github.com/elastic/logstash  
+Kibina	&emsp;日志可视化查看工具	&emsp;https://github.com/elastic/kibana  
+Nginx	&emsp;静态资源服务器	&emsp;https://www.nginx.com/  
+Docker	&emsp;应用容器引擎	&emsp;https://www.docker.com  
+Jenkins	&emsp;自动化部署工具	&emsp;https://github.com/jenkinsci/jenkins  
+Druid	&emsp;数据库连接池&emsp;	https://github.com/alibaba/druid  
+OSS	&emsp;对象存储&emsp;	https://github.com/aliyun/aliyun-oss-java-sdk  
+MinIO	&emsp;对象存储&emsp;	https://github.com/minio/minio  
+JWT	&emsp;JWT登录支持&emsp;	https://github.com/jwtk/jjwt  
+Lombok&emsp;	简化对象封装工具	&emsp;https://github.com/rzwitserloot/lombok  
+Hutool	&emsp;Java工具类库	&emsp;https://github.com/looly/hutool  
+PageHelper&emsp;	MyBatis物理分页插件&emsp;	http://git.oschina.net/free/Mybatis_PageHelper  
+Swagger-UI&emsp;	文档生成工具	&emsp;https://github.com/swagger-api/swagger-ui  
+Hibernator-Validator	&emsp;验证框架&emsp;	http://hibernate.org/validator  
 前端技术  
-Vue	前端框架	https://vuejs.org/  
-Vue-router	路由框架	https://router.vuejs.org/  
-Vuex	全局状态管理框架	https://vuex.vuejs.org/  
-Element	前端UI框架	https://element.eleme.io  
-Axios	前端HTTP框架	https://github.com/axios/axios  
-v-charts	基于Echarts的图表框架	https://v-charts.js.org/  
-Js-cookie	cookie管理工具	https://github.com/js-cookie/js-cookie  
-nprogress	进度条控件	https://github.com/rstacruz/nprogress  
+Vue&emsp;	前端框架	&emsp;https://vuejs.org/  
+Vue-router&emsp;	路由框架&emsp;	https://router.vuejs.org/  
+Vuex	&emsp;全局状态管理框架&emsp;	https://vuex.vuejs.org/  
+Element	&emsp;前端UI框架&emsp;	https://element.eleme.io  
+Axios	&emsp;前端HTTP框架&emsp;	https://github.com/axios/axios  
+v-charts	&emsp;基于Echarts的图表框架&emsp;	https://v-charts.js.org/  
+Js-cookie&emsp;	cookie管理工具&emsp;	https://github.com/js-cookie/js-cookie  
+nprogress&emsp;	进度条控件&emsp;	https://github.com/rstacruz/nprogress  
